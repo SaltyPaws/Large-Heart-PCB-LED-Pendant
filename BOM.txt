@@ -1,0 +1,12 @@
+R1-5 100 Ohm resistor (use different value for different colors)
+R6 10k Ohm resistor
+C1 10 10μF capacitor (106)
+D1-20 5mm LEDs. I used alternating white and blue extra clear
+BT1/2 BS10 Battery holder
+SW1 EG2585-ND (Digikey)
+Attiny ATTINY45-20PU
+
+Programming
+HW-260 ATtiny13A / ATtiny25 / ATtiny45 / ATtiny85 Pluggable ATTINY Development Programming Bare Board
+USBASP programmer
+USBASP 10 to 6 cable converter
